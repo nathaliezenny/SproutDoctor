@@ -1,21 +1,21 @@
-# (UPDATE IN README.md) Project Title
-
-(UPDATE IN README.md)
-Briefly describe the purpose/result(s) of your project, the skills you applied, and the Apply AI program.
-
-*EXAMPLE:*
-*Uncovered and meticulously analyzed three distinct biases present in ChatGPT, employing advanced Python techniques and data analysis methodologies, all within AI4ALL's cutting-edge AI4ALL Ignite accelerator.*
+# SproutDoctor
 
 
-## Problem Statement <!--- do not change this line -->
+Developed a machine learning model for binary classification of plant diseases using computer vision techniques. Using Python, //, // , all within AI4ALL's cutting-edge AI4ALL Ignite accelerator.
+
+
+
+## Problem Statement 
 
 (UPDATE IN README.md)
 Describe the motivation for this project, why it is relevant, and what its impacts are.
 
+This project aims to combat food scarcity by developing a machine learning model using computer vision to help individuals detect and address plant diseases, thereby increasing crop yields and promoting self-sufficiency in food production. By empowering people to grow their own food more effectively, especially in regions with limited agricultural resources, this project contributes to addressing global food security challenges and promoting sustainable agriculture practices.
+
 *EXAMPLE:*
 *Given the substantial daily output of responses, the identification and mitigation of ChatGPT's biases become critical, safeguarding both the multitude of users and the far-reaching consequences they may influence.*
 
-## Key Results <!--- do not change this line -->
+## Key Results 
 
 (UPDATE IN README.md)
 Enumerate the main results of this project in a list and describe them.
@@ -28,7 +28,7 @@ Enumerate the main results of this project in a list and describe them.
    - *When prompted about this political party*
 
 
-## Methodologies <!--- do not change this line -->
+## Methodologies 
 
 (UPDATE IN README.md)
 
@@ -42,15 +42,16 @@ Enumerate the main results of this project in a list and describe them.
 (UPDATE IN README.md)
 Include any relevant data sources that were used in your project.
 
-*EXAMPLE:*
-*Kaggle Datasets: [Link to Kaggle Dataset](https://www.kaggle.com/datasets)*
 
+*Kaggle Datasets: https://www.kaggle.com/datasets/myprojectdictionary/citrus-leaf-disease-image
+                  https://www.kaggle.com/datasets/mhantor/apple-leaf-diseases 
+                  
 ## Technologies Used <!--- do not change this line -->
 
 (UPDATE IN README.md)
 List the technologies, libraries, and frameworks used in your project.
 
-*EXAMPLE:*
+Techonologies, Libraries and frameworks used : 
 - *Python*
 - *pandas*
 - *OpenAI API*
